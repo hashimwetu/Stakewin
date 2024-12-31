@@ -1,0 +1,23 @@
+table{
+  border-color: orangered;
+  width: 500px;
+  max-width: 100%;
+  min-width: auto;
+  border-collapse: collapse;
+  margin: auto;
+  border: 1px;
+}
+.table-one{
+  max-width: 100%;
+  min-width: auto;
+  display: flex;
+  justify-content: center;
+ align-items: center;
+  
+  
+}
+td{
+  color: rgb(29, 199, 29);
+  font-weight: bold;
+  font-size: 14px;
+}
