@@ -39,20 +39,27 @@ color: white;
 }
 @media (max-width: 760px) {
   body {
-    font-size: 12px; /* Adjust for tablets */
+    font-size: 13px; /* Adjust for tablets */
   }
 }
 
 @media (max-width: 480px) {
   body,h2,h3,h4,h5,h6 {
-    font-size: 10px; /* Adjust for smartphones */
+    font-size: 12px; /* Adjust for smartphones */
   }
 }
 
 @media (max-width: 600px) {
-  th, td {
+  th, td, table {
       padding: 2px;
+      font-size: 11px;
   }
 }
+
+
+
+
+
+
 
 
